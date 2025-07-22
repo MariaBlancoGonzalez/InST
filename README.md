@@ -91,11 +91,11 @@ For details see the [paper](https://arxiv.org/abs/2211.13203)
 
 ## Changes (Track)
 
-Main
-Diffusion module
-Modules
-Config parameters
-CLIP model into ldm folder but not in this repo.
+- Main
+- Diffusion module
+- Modules
+- Config parameters
+- CLIP model into ldm folder but not in this repo.
 
 ### News
 📣📣 Received some requirements, therefore we have added an optional AdaIN module in InST.ipynb to help you achieve results that better meet your needs.
